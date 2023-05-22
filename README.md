@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
-[Click Here]()
+[Click Here](https://tab-switch-harshcodes.netlify.app/)
 
 ---
 
@@ -13,6 +13,8 @@
 - React Components
 
 - React Props
+
+- Loading
 
 - useState
 
